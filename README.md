@@ -123,11 +123,7 @@ The trained Encoder network was able to produce decent results considering the f
 ![](Results/Triplet_2.png)</br>
 
 ![](Results/Triplet_3.png)
-### Webcam Demo
-As you may have guessed by now, training an Encoder network requires a huge dataset and a lot of computational power. It is obviously not possible on our local machines. So I used pre-trained weights for the Inception ResNet v1 Encoder network provided by [David Sandberg](https://github.com/davidsandberg/facenet) during realtime face recognition on video streams. </br>
 
-![](Results/Webcam_Demo.gif)</br>
- 
 As it can be seen, our Face Recognizer Model is pretty good in detecting multiple faces and recognizing them. But it recognizes only me and not Dr. Andrew Ng. Why? because he is not in the Face_database ! 
 
 
