@@ -130,13 +130,4 @@ As you may have guessed by now, training an Encoder network requires a huge data
  
 As it can be seen, our Face Recognizer Model is pretty good in detecting multiple faces and recognizing them. But it recognizes only me and not Dr. Andrew Ng. Why? because he is not in the Face_database ! 
 
-## Final Notes
-**Thanks for going through this Repository! Have a nice day.**</br>
-</br>**Got any Queries? Feel free to contact me.**</br>
-</br>**Saini Rohan Rao**
-<p align="left">
-<a href="mailto:rohanrao619@gmail.com"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/Gmail.svg" height ="45" title="Gmail" alt="mailto:rohanrao619@gmail.com"></a>
-<a href="https://github.com/rohanrao619"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/GitHub.svg" height ="45" title="GitHub" alt="https://github.com/rohanrao619"></a>
-<a href="https://www.linkedin.com/in/rohanrao619"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/LinkedIn.svg" height ="45" title="LinkedIn" alt="https://www.linkedin.com/in/rohanrao619"></a>
-<a href="https://rohanrao619.github.io/"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/Portfolio.svg" height ="45" title="Portfolio Website" alt="https://rohanrao619.github.io/"></a>
-</p>
+
